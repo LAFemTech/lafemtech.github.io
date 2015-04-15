@@ -15,7 +15,7 @@ LA Tech Women is an evolving resource guide that will contain useful information
 
 Title pending - suggestions welcome.
 
-Also please add any suggestions on best practices or formats for maintaining or presenting groups or resources such as this via GitHub.
+Also please add any suggestions on best practices or formats for maintaining or presenting groups or resources such as this via GitHub. Currently resources and content are stored in the WIKI - feel free to check it out and add details! 
 
 
 ## TO-DO's
