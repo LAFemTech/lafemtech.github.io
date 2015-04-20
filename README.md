@@ -2,7 +2,7 @@
 
 LA Tech Women is an evolving resource guide that will contain useful information for the local community. 
 
-* Currently all of the resources and content are stored in an in-progress/draft in the [WIKI](https://github.com/LATechWomen/LATechWomen/wiki) but feel free to check it out and add details! To be moved to Github Pages soon! * 
+_Currently all of the resources and content are stored in an in-progress/draft in the [WIKI](https://github.com/LATechWomen/LATechWomen/wiki) but feel free to check it out and add details! To be moved to Github Pages soon!_
 
 Lists to include...
 
