@@ -1,6 +1,10 @@
 # LATechWomen
 
-LA Tech Women is an evolving resource guide that will contain useful information for the local community, including...
+LA Tech Women is an evolving resource guide that will contain useful information for the local community. 
+
+* Currently all of the resources and content are stored in an in-progress/draft in the WIKI but feel free to check it out and add details! To be moved to Github Pages soon! * 
+
+Lists to include...
 
 - Local Women's Tech and Coding Groups
 - Non-profit organizations and resources
@@ -15,7 +19,7 @@ LA Tech Women is an evolving resource guide that will contain useful information
 
 Title pending - suggestions welcome.
 
-Also please add any suggestions on best practices or formats for maintaining or presenting groups or resources such as this via GitHub. Currently resources and content are stored in the WIKI - feel free to check it out and add details! 
+Also please add any suggestions on best practices or formats for maintaining or presenting groups or resources such as this via GitHub. 
 
 
 ## TO-DO's
