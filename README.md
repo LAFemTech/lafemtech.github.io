@@ -14,15 +14,32 @@ Lists to include...
 - Hackathons, conferences, and other events
 - Online Resources
 
+Working on the `gh-pages` branch
+=========
+1. Open Terminal and clone this repository by running `git clone https://github.com/LATechWomen/lafemtech.github.io.git`
+2. `cd LATechWomen`
+3. `python -m SimpleHTTPServer 8000`
+4. Go to your browser and open `http://localhost:8000/`
+5. To open on your phone, find your IP address and open `http://[YOUR-IP-ADDRESS]:8000/`
 
-## NOTES
+Update `gh-pages` branch
+=========
+1. `git push origin master`
+2. `git checkout gh-pages`
+3. `git rebase master`
+4. `git push origin gh-pages`
+5. Visit at http://lafemtech.github.io
+
+Notes
+========
 
 Title pending - suggestions welcome.
 
 Also please add any suggestions on best practices or formats for maintaining or presenting groups or resources such as this via GitHub. 
 
 
-## TO-DO's
+To Do's
+=========
 
 * Outreach to other groups and maintainers
 * Add protected admin section (can be Google Doc or otherwise?) with contact info, venues, etc. for group organizers to use as a resource. Note - please request permission from the venue, sponsor, etc. for you to share their information!
