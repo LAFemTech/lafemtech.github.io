@@ -1,6 +1,6 @@
-# LATechWomen
+# LAFemTech 
 
-LA Tech Women is an evolving resource guide that will contain useful information for the local community. 
+LAFemTech // LA Tech Women is an evolving resource guide that will contain useful information for the local community. 
 
 _Currently all of the resources and content are stored in an in-progress/draft in the [WIKI](https://github.com/LATechWomen/LATechWomen/wiki) but feel free to check it out and add details_
 
@@ -21,8 +21,8 @@ _Currently all of the resources and content are stored in an in-progress/draft i
 5. To open on your phone, find your IP address and open `http://[YOUR-IP-ADDRESS]:8000/`
 
 ## Notes
-* Title pending - suggestions welcome.
-* Also please add any suggestions on best practices or formats for maintaining or presenting groups or resources such as this via GitHub. 
+* Please add any suggestions on best practices or formats for maintaining or presenting groups or resources such as this via GitHub. 
+* LA Fem Tech is loosely based on and inspired by [DC Fem Tech](http://dcfemtech.github.io/about.html). 
 
 ## To Do's 
 * Outreach to other groups and maintainers
