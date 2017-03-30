@@ -17,8 +17,8 @@ LAFemTech // LA Tech Women is an evolving resource guide that will contain usefu
 3. Create a local branch to make edits locally  
   `git checkout -b <branchname>`
 
-4. To preview the website on your local machine:
-    `cd LATechWomen`
+4. To preview the website on your local machine:  
+    `cd LATechWomen`  
     `python -m SimpleHTTPServer 8000`
   _Note_ You should have Python installed.
 5. Go to your browser and open `http://localhost:8000/`
