@@ -1,10 +1,10 @@
-### Tech 
+### Tech
 
 [DIY Girls](http://www.diygirls.org)
 
 [Girls in Tech LA](http://www.girlsintechla.org)
 
-Girls in Tech OC 
+Girls in Tech OC
 
 Girl Geek Dinners
 
@@ -31,10 +31,14 @@ http://wiki.ubuntu-women.org/
 https://www.os4w.org
 
 
-### Global Women's/Girls Organizations 
+### Global Women's/Girls Organizations
 _There may be a better place/category for this_
 
 GirlUp (UN) | [Twitter](https://twitter.com/GirlUp)
 
 ---
 * support for local chapters, none currently available in LA [ABI.local](http://anitaborg.org/dot-local/)
+
+
+### Film
+http://citizenjanefilmfestival.org/about-us/
