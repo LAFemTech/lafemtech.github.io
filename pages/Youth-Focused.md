@@ -2,6 +2,15 @@ _I'd love to figure out how to put together a resource guide for parents. I've h
 
 https://www.builtbygirls.com/programs
 
+- [DIY Girls](http://diygirls.org)
+- [Urban TxT](http://exploringtech.org/)
+- [9Dots](http://9dots.org/)
+- http://coderdojo.com
+- http://www.computerclubhouse.org
+- [Girls Who Code](http://www.girlswhocode.com)
+- https://squareup.com/code-camp
+- [Hacker Fund](http://hacker.fund/)
+
 ## Local After-School Programs
 
 9 Dots <add location>
@@ -17,6 +26,7 @@ https://www.builtbygirls.com
 
 Girl Scouts
 Girls in Power
+[DIY Girls](http://www.diygirls.org)  
 
 http://www.stemadvantage.org/about-us/
 http://www.teachingkidsprogramming.com
