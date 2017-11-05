@@ -82,3 +82,9 @@ http://init-together.com/
 [LA Women in Tech Meetup](https://www.meetup.com/Los-Angeles-Women-in-Tech-LAWIT/) _Last Activity March 2017_  
 [Chicks Can Code](https://www.meetup.com/ChicksCanCode/)  _No current active events_  
 [FemShift Los Angeles](https://www.meetup.com/meetup-group-lttcycGz/)  _Last Activity Feb 2017_
+
+
+# More information on the following pages:  
+[Youth](/youth)  
+[Coding](/coding)  
+[More Resources](/resources)
