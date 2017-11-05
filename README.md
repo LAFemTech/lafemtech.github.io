@@ -2,10 +2,10 @@
 
 LAFemTech // LA Tech Women is an evolving resource guide that will contain useful information for the local community. This is a community project and we welcome any positive input, contributions, or support! The goal is to be (agnostic) politically, socially, and technically, and focused on inclusion!
 
-[Main List](/home)
-[Coding Resources](/coding)
-[Links for Youth](/youth)
-[Other Resources](/resources)
+[Main List](home.md)  
+[Coding Resources](coding.md)  
+[Links for Youth](youth.md)  
+[Other Resources](resources.md)  
 
 ## Lists to include
 * Local Women's Tech and Coding Groups
