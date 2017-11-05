@@ -1,6 +1,11 @@
 # LAFemTech
 
-LAFemTech // LA Tech Women is an evolving resource guide that will contain useful information for the local community.
+LAFemTech // LA Tech Women is an evolving resource guide that will contain useful information for the local community. This is a community project and we welcome any positive input, contributions, or support! The goal is to be (agnostic) politically, socially, and technically, and focused on inclusion!
+
+[Main List](/home)
+[Coding Resources](/coding)
+[Links for Youth](/youth)
+[Other Resources](/resources)
 
 ## Lists to include
 * Local Women's Tech and Coding Groups
@@ -21,6 +26,7 @@ LAFemTech // LA Tech Women is an evolving resource guide that will contain usefu
     `cd LATechWomen`  
     `python -m SimpleHTTPServer 8000`
   _Note_ You should have Python installed.
+
 5. Go to your browser and open `http://localhost:8000/`
 6. After your edits are complete, push your local branch to Github and submit a pull request.
 
@@ -30,9 +36,4 @@ LAFemTech // LA Tech Women is an evolving resource guide that will contain usefu
 * Please add any suggestions on best practices or formats for maintaining or presenting groups or resources such as this via GitHub.
 * LA Fem Tech is loosely based on and inspired by [DC Fem Tech](http://dcfemtech.github.io/about.html).
 
-## To Do's
-* Outreach to other groups and maintainers
-* Add protected admin section (can be Google Doc or otherwise?) with contact info, venues, etc. for group organizers to use as a resource. Note - please request permission from the venue, sponsor, etc. for you to share their information!
-* Add event calendar
-* Possibly expand and invite other metro areas to have pages dedicated for their city.
-* Figure out a good structure for the front page
+## See [todos.md](todos.md) for more info
