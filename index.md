@@ -15,7 +15,7 @@ This is a community project and we welcome any positive input, contributions, or
 # Tech Community Groups
 [Pasadena Women in Technology - Meetup](https://www.meetup.com/Pasadena-Women-In-Technology/)  
 [LinuxChix Los Angeles - Meetup](https://www.meetup.com/LinuxChixLA/)  
-[AnitaB.org Local](https://community.anitab.org/groups/los-angeles/gpages/) _Local chapters for Anita B.org (formerly Anita Borg Institute)_
+[AnitaB.org Local](https://community.anitab.org/groups/los-angeles/gpages/) _Local chapters for Anita B.org (formerly Anita Borg Institute)_  
 [Black Women in Tech LA Meetup](http://www.meetup.com/Black-Women-in-Technology-LA/)    
 [Women's Voices in Tech - Meetup](https://www.meetup.com/meetup-group-fMctMcUE/) _A project of Code District and Repurpose Your Purpose_  
 [Long Beach Women in Tech Meetup](https://www.meetup.com/Long-Beach-Women-in-Tech/)  
@@ -46,7 +46,7 @@ This is a community project and we welcome any positive input, contributions, or
 # Startup and Entrepreneurship
 [Women 2.0](https://women2.com/)  
 [Women Founders Network](http://www.womenfoundersnetwork.com/)  <!-- Was maybe previously chick launcher? -->  
-[SHEWORX](http://www.sheworx.co/)  _Female Entrepreneurs_
+[SHEWORX](http://www.sheworx.co/)  _Female Entrepreneurs_  
 [Ellevate Network (formerly 85 Broads)](https://www.ellevatenetwork.com/)  
 [Tech Women Network](http://techwomennetwork.com) _Digital Cafe for Tech-Savvy Women_  
 [Women in Tech Network](https://www.womenintechnetwork.com/)    
@@ -73,7 +73,7 @@ This is a community project and we welcome any positive input, contributions, or
 [Stem Think Tank and Conference](http://stemefg.org/index.php/think-tank-and-conference)  
 
 **Previous Conferences**  
-http://init-together.com/   
+[init-together](http://init-together.com)  - UC Irvine  
 [Yellow Co Conference for Creative Female Entrepreneurs](http://yellowco.co/conference)  
 
 
