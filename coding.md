@@ -2,7 +2,7 @@
 
 _Note:_ This page is still currently in progress. Please feel free to submit additional links and resources here!
 
-See Local Women's Coding groups on home
+More Local Women's Coding groups on the [main page](index.md)  
 
 # Other Local Coding Meetups
 [Learn to Code With Us](http://www.learntocodewithus.com/resources)  
