@@ -29,4 +29,11 @@ Learn Python the Hard Way
 
 # Other links
 https://www.canadalearningcode.ca/about/ - used to be Ladies Learning Code
---> 
+-->
+
+
+# More information on the following pages:  
+[Youth](/youth)  
+[More Resources](/resources)
+
+[Home](index.md)

@@ -43,3 +43,9 @@ To be sorted into the following:
 - Educational Games/Toys
 - Events
 - Summer programs
+
+
+# More information on the following pages:  
+[Coding](/coding)  
+[More Resources](/resources)
+[Home](index.md)
