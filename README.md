@@ -36,4 +36,4 @@ LAFemTech // LA Tech Women is an evolving resource guide that will contain usefu
 * Please add any suggestions on best practices or formats for maintaining or presenting groups or resources such as this via GitHub.
 * LA Fem Tech is loosely based on and inspired by [DC Fem Tech](http://dcfemtech.github.io/about.html).
 
-## See [todos.md](todos.md) for more info
+## See [TODO.md](TODO.md) for more info
