@@ -73,7 +73,7 @@ This is a community project and we welcome any positive input, contributions, or
 [Stem Think Tank and Conference](http://stemefg.org/index.php/think-tank-and-conference)  
 
 **Previous Conferences**  
-[init-together](http://init-together.com)  - UC Irvine  
+[init together](http://init-together.com)  - UC Irvine  
 [Yellow Co Conference for Creative Female Entrepreneurs](http://yellowco.co/conference)  
 
 

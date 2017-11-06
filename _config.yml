@@ -1,7 +1,7 @@
 title: LAFemTech
-description: 
-google_analytics: 
-show_downloads: true
+description: A guide to LA tech resources for women
+google_analytics:
+show_downloads: false
 theme: jekyll-theme-dinky
 
 gems:
