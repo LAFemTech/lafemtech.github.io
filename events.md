@@ -14,3 +14,11 @@
 
 # Past Events
 (add past events here)
+
+
+# More information on the following pages:  
+[Youth](/youth)  
+[Coding](/coding)  
+[More Resources](/resources)  
+
+[Home](index.md)

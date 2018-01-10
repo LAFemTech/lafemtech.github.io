@@ -48,4 +48,6 @@ To be sorted into the following:
 # More information on the following pages:  
 [Coding](/coding)  
 [More Resources](/resources)  
+[Events](/events)  
+
 [Home](index.md)

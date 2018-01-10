@@ -41,7 +41,7 @@ Some awesome lists are available on GitHub here!
 
 
 # Information Security  
-[SANS Immersion Academy](https://www.sans.org/cybertalent/immersion-academy/womens)  
+[SANS Immersion Academy](https://www.sans.org/cybertalent/immersion-academy/womens)   1`
 
 
 # Open Source
@@ -84,5 +84,6 @@ _sites with great features to use as examples, etc._
 # More information on the following pages:  
 [Youth](/youth)  
 [Coding](/coding)  
+[Events](/events)  
 
 [Home](index.md)
