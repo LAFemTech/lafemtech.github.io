@@ -12,6 +12,7 @@ Some awesome lists are available on GitHub here!
 [Northwest Regional Women in Computing](http://nwrwic.org/) _Annual Conference in Oregon_  
 [Stem Think Tank and Conference](http://stemefg.org/index.php/think-tank-and-conference)  
 
+
 # Mentorship and Career
 [Glassbreakers.co](www.glassbreakers.co)  
 [Hire More Women in Tech](https://www.hiremorewomenintech.com/)  
@@ -37,6 +38,10 @@ Some awesome lists are available on GitHub here!
 [STEMINIST](http://steminist.com) - _Created in 2010 by Ann Hoang, STEMinist focuses on women in Science, Tech, Engineering and Math._  
 [UN Commission on the Status of Women](http://www.unwomen.org/en/csw)  
 [WebGrrls](https://www.webgrrls.com/)  
+
+
+# Information Security  
+[SANS Immersion Academy](https://www.sans.org/cybertalent/immersion-academy/womens)  
 
 
 # Open Source
