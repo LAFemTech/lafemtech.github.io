@@ -80,4 +80,5 @@ This page is particularly focused on groups with an LA presence. More informatio
 # More information on the following pages:  
 [Youth](/youth)  
 [Coding](/coding)  
+[Events](/events)  
 [More Resources](/resources)
