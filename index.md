@@ -1,6 +1,8 @@
 # Welcome to the LA Women's Tech Guide!
 
-This is a community project and we welcome any positive input, contributions, or support! This is currently in progress - major changes to the design, layout, and information available are pending. Please contact us if there is a website or resource that should be added to this list. Exclusions or omissions are not intentional!
+This is a community project and we welcome any positive input, contributions, or support! This is currently in progress - major changes to the design, layout, and information available are pending.
+
+Please contact us at <lafemtech@gmail.com> if there is a website or resource that should be added to this list, or check us out on [Github](https://github.com/LAFemTech/lafemtech.github.io) and submit a Pull Request! Exclusions or omissions are not intentional!
 
 
 This page is particularly focused on groups with an LA presence. More information on national and international resources is available on the [resources](/resources) page.  
