@@ -79,7 +79,7 @@ This page is particularly focused on groups with an LA presence. More informatio
 [FemShift Los Angeles](https://www.meetup.com/meetup-group-lttcycGz/)  _Last Activity Feb 2017_
 
 
-# More information on the following pages:  
+**More information on the following pages:**  
 [Youth](/youth)  
 [Coding](/coding)  
 [Events](/events)  

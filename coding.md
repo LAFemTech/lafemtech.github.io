@@ -32,9 +32,9 @@ https://www.canadalearningcode.ca/about/ - used to be Ladies Learning Code
 -->
 
 
-# More information on the following pages:  
+** More information on the following pages:  **  
 [Youth](/youth)  
 [More Resources](/resources)  
 [Events](/events)  
 
-[Home](index.md)
+[>>Home](index.md)

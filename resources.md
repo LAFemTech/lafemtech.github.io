@@ -16,7 +16,8 @@ Some awesome lists are available on GitHub here!
 # Mentorship and Career
 [Glassbreakers.co](www.glassbreakers.co)  
 [Hire More Women in Tech](https://www.hiremorewomenintech.com/)  
-- Also has a great resource list  
+- Also has a great resource list!
+[Hire Tech Ladies](https://www.hiretechladies.com/)    
 [Lane by Women 2.0](https://lane.women2.com/)  
 [Million Woman Mentors](www.millionwomanmentors.com)  
 [The Muse](https://www.themuse.com/)  
@@ -81,9 +82,9 @@ _sites with great features to use as examples, etc._
 [MadeMistakes.com](https://mademistakes.com/work/jekyll-themes/) - some free Jekyll themes with some nice features, good examples  
 
 
-# More information on the following pages:  
+**More information on the following pages:**
 [Youth](/youth)  
 [Coding](/coding)  
 [Events](/events)  
 
-[Home](index.md)
+[>>Home](index.md)
