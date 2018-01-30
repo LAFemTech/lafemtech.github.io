@@ -72,7 +72,7 @@ _Created in 2010 by Ann Hoang, STEMinist focuses on women in Science, Tech, Engi
 [Code and Cupcakes](http://codeandcupcakes.net) - Chicago  
 [DC Fem Tech](www.dcfemtech.io)  - DC  
 [Girl Geek Dinners](http://girlgeekdinners.com/)  
-[GirlUp (UN)][Twitter](https://twitter.com/GirlUp)  
+[GirlUp (UN)] [Twitter](https://twitter.com/GirlUp)  
 [Ladies Learning Code](http://ladieslearningcode.com)  
 [She Geeks Out](http://shegeeksout.com/)  
 [Women in Tech Finland](http://womenintech.fi/members/)  
