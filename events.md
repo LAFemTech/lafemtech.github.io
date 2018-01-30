@@ -63,12 +63,3 @@ Some great local calendars:
 ## March
 3/13 Tues | Female Founder Office Hours | Santa Monica  
 [Apply Here](https://www.femalefounder.org/join-us-los-angeles)
-
-
-
-** More information on the following pages: **  
-[Youth](/youth)  
-[Coding](/coding)  
-[More Resources](/resources)  
-
-[>>Home](index.md)
