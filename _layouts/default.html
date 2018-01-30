@@ -55,11 +55,15 @@
         {{ content }}
       </section>
 
+      {% include footer.html %}
+
       <footer>
-        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the very useful Dinky theme until we have some time to update the style and layout!</small></p>
+        <p><small>Maintained by <a href="https://github.com/murriel">murriel</a></small></p>
       </footer>
     </div>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+
     {% if site.google_analytics %}
       <script type="text/javascript">
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

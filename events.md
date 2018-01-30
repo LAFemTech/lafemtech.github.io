@@ -7,9 +7,9 @@ The format for the events is as shown below. Use the current listings as a guide
 MM/DD DAY | Event Name | Organization | City/Neighborhood | Cost  
 Event Link
 
-Some great local calendars:
+Some great local calendars:  
 [Built in LA (Women in Tech Category)](https://www.builtinla.com/events?f[0]=cats%3A125)  
-[We Are LA Tech]()
+[We Are LA Tech](http://wearelatech.com/calendar/)  
 
 <hr>
 
@@ -50,10 +50,10 @@ Some great local calendars:
 2/18 Sat | Empowering Women and Girls of LA 2018 | El Pueblo Historical Monument | DTLA | Free  
 [Event Flyer on Twitter](https://twitter.com/pwnerchelsea/status/951142487690588160)
 
-2/24-25 Sat-Sun | AthenaHacks Hackathon | USC
+2/24-25 Sat-Sun | AthenaHacks Hackathon | USC  
 [Technical Mentor Application](https://projectathena.typeform.com/to/pOXci5)  
 
-2/27 Tues | Unpacking Unconscious Bias to Advance your Career | Women in Technology Hollywood | Free
+2/27 Tues | Unpacking Unconscious Bias to Advance your Career | Women in Technology Hollywood | Free  
 [MESA Website](http://www.mesalliance.org/conferences/smart-content-west-2018?page=with-workshop)  
 
 2/28 Wed | Networking Happy Hour | Women's Voices in Tech | Culver City | Free  

@@ -2,12 +2,11 @@
 
 _I'd love to figure out how to put together a resource guide for parents. I've had many parents come up to me and ask how to get their girls more interested in (Tech/Code/STEM/Engineering/etc) and would love to have a site that we can point them to that has a list of resources for them to use to encourage their young girls (and boys) to get stoked on tech!_
 
-## Programs afor Girls  
+## Programs for Girls  
 - [Alexa Cafe](https://www.idtech.com/alexa-cafe) _Summer Tech Camp_  
 - [Built by Girls](https://www.builtbygirls.com/programs)  
 - [Center for STEM Education for Girls](http://www.stemefg.org/index.php)  
-- [DIY Girls](http://diygirls.org)  
-_After School Programs for girls in 5-12th Grade in San Fernando Valley_
+- [DIY Girls](http://diygirls.org)  _After School Programs for girls in 5-12th Grade in San Fernando Valley_
 - [EmpowHER](http://empowher.org)  
 - [GenHERation](http://genheration.com/)  
 - [Girls Go CyberStart](https://girlsgocyberstart.com/)  
@@ -47,10 +46,3 @@ To be sorted into the following:
 - Events
 - Summer programs
 - Tech vs Non-Tech/Empowerment Resources
-
-**More information on the following pages:**  
-[Coding](/coding)  
-[More Resources](/resources)  
-[Events](/events)  
-
-[>>Home](index.md)
