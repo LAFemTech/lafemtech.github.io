@@ -27,6 +27,7 @@ Some awesome lists are available on GitHub here!
 
 # Resources
 [50 50 leadership](http://www.5050leadership.org)  
+[Diversity Tickets](https://diversitytickets.org/)    
 [Empowered Women](https://empoweredwomen.org)  
 [Femgineer](http://femgineer.com/)  
 [Geena Davis Institute for Gender and Diversity in Media](http://seejane.org)  
@@ -68,6 +69,7 @@ Some awesome lists are available on GitHub here!
 [Girl Geek Dinners](http://girlgeekdinners.com/)  
 [GirlUp (UN) | [Twitter](https://twitter.com/GirlUp)  
 [Ladies Learning Code](http://ladieslearningcode.com)  
+[She Geeks Out](http://shegeeksout.com/)  
 [Women in Tech Finland](http://womenintech.fi/members/)  
 [Women in Technology Hawaii](http://www.womenintech.com/about/)  _A Hawaii statewide workforce initiative of the Maui Economic Development Board_  
 [Women in Technology (WIT)](http://www.womenintechnology.org)
