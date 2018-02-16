@@ -26,8 +26,7 @@ _Annual Conference in Oregon_
 [Women in Tech Campaign](http://www.womenintechcampaign.com/)
 
 
-# Resources
-[50 50 leadership](http://www.5050leadership.org)  
+# Tech Resources
 [Diversity Tickets](https://diversitytickets.org/)    
 [Empowered Women](https://empoweredwomen.org)  
 [Femgineer](http://femgineer.com/)  
@@ -44,6 +43,11 @@ _Project of NCWIT_
 _Created in 2010 by Ann Hoang, STEMinist focuses on women in Science, Tech, Engineering and Math._  
 [UN Commission on the Status of Women](http://www.unwomen.org/en/csw)  
 [WebGrrls](https://www.webgrrls.com/)  
+
+
+# Professional and Non-Profit
+[50 50 leadership](http://www.5050leadership.org)  
+[Network of Executive Women, Chicago](https://www.newonline.org/)  
 
 
 # Information Security  
