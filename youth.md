@@ -20,6 +20,7 @@ _I'd love to figure out how to put together a resource guide for parents. I've h
 
 
 ## Educational Resources
+- [IT Hare: Tips for Girls in STEM](http://ithare.com/tips-for-getting-girls-involved-in-stem/)*  
 - [GoldieBlox](https://www.goldieblox.com/)
 - [KitHub](https://kithub.cc/)  
 - [Women of NASA Legos](https://shop.lego.com/en-US/Women-of-NASA-21312)  
@@ -46,3 +47,6 @@ To be sorted into the following:
 - Events
 - Summer programs
 - Tech vs Non-Tech/Empowerment Resources
+
+# Credits  
+* Thank you to Colleen and Cynthia for the reference!

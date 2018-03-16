@@ -41,13 +41,13 @@ _Project of NCWIT_
 [STEM Advantage](http://stemadvantage.org/)  
 [STEMINIST](http://steminist.com)  
 _Created in 2010 by Ann Hoang, STEMinist focuses on women in Science, Tech, Engineering and Math._  
-[UN Commission on the Status of Women](http://www.unwomen.org/en/csw)  
 [WebGrrls](https://www.webgrrls.com/)  
 
 
 # Professional and Non-Profit
 [50 50 leadership](http://www.5050leadership.org)  
 [Network of Executive Women, Chicago](https://www.newonline.org/)  
+[UN Commission on the Status of Women](http://www.unwomen.org/en/csw)  
 
 
 # Information Security  
