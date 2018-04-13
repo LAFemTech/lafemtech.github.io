@@ -11,7 +11,7 @@ Some awesome lists are available on GitHub here:
 [Grace Hopper Conference](http://gracehopper.org/)  
 _Annual conference celebrating women technologists, produced by AnitaB.org in partnership with ACM_  
 [Northwest Regional Women in Computing](http://nwrwic.org/)  
-_Annual Conference in Oregon_  
+_Annual Conference in Oregon_  ``
 [Stem Think Tank and Conference](http://stemefg.org/index.php/think-tank-and-conference)  
 
 
@@ -23,6 +23,7 @@ _Annual Conference in Oregon_
 [Million Woman Mentors](www.millionwomanmentors.com)  
 [The Muse](https://www.themuse.com/)  
 [Power To Fly](https://powertofly.com/)  
+[Women of Grit | Empowerment](https://womenofgrit.com/)  
 [Women in Tech Campaign](http://www.womenintechcampaign.com/)
 
 
@@ -48,6 +49,7 @@ _Created in 2010 by Ann Hoang, STEMinist focuses on women in Science, Tech, Engi
 [50 50 leadership](http://www.5050leadership.org)  
 [Network of Executive Women, Chicago](https://www.newonline.org/)  
 [UN Commission on the Status of Women](http://www.unwomen.org/en/csw)  
+[Winter Women - Women in Non Traditional Roles / Construction](https://www.winterwomen.org/)  
 
 
 # Information Security  

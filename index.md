@@ -27,6 +27,7 @@ This page is particularly focused on groups with an LA presence. More informatio
 [Long Beach Women in Tech Meetup](https://www.meetup.com/Long-Beach-Women-in-Tech/)  
 [Pasadena Women in Technology - Meetup](https://www.meetup.com/Pasadena-Women-In-Technology/)  
 [Silicon Beach Diversity - Meetup](https://www.meetup.com/Silicon-Beach-Diversity/)  
+[Women in Software Engineering - Meetup](https://www.meetup.com/Women-in-Software-Engineering/)  
 [Women's Voices in Tech - Meetup](https://www.meetup.com/meetup-group-fMctMcUE/) _A project of Code District and Repurpose Your Purpose_  
 
 

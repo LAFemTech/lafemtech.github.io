@@ -67,5 +67,39 @@ Some great local calendars:
 
 
 ## March
+3/9 Fri | Women in Blockchain | Friday Coffee Meetup | Pasadena  
+[Meetup](https://www.meetup.com/Innovation-friday-coffee-meetup/events/247972737/)  
+
 3/13 Tues | Female Founder Office Hours | Santa Monica  
 [Apply Here](https://www.femalefounder.org/join-us-los-angeles)
+
+3/21 Wed | Women's Voices in Tech |  Code District & Repurpose Your Purpose | Culver City   [Eventbrite](https://www.eventbrite.com/e/womens-voices-in-tech-happy-hour-tickets-43730148050?aff=efbeventtix)  
+
+3/21 Wed | VERYNICE Women’s Design Salon: Feminine Voice  | Los Angeles  
+[Event Link](https://generalassemb.ly/education/verynice-women-s-design-salon-feminine-voice)  
+
+3/29 Thurs | Women in Big Data and PyData | PyData SoCal | Culver City  
+[Meetup](https://www.meetup.com/PyData-SoCal/events/247536114/)  
+
+
+## April
+4/3 Tues | Women in Data Science & Design | Women in Software Engineering Meetup | Marina Del Rey  
+[Meetup](https://www.meetup.com/Women-in-Software-Engineering/events/248777647/)
+
+4/17 Tues AM | Women in Tech Breakfast | GA | Santa Monica  
+[Event Link](https://generalassemb.ly/education/women-in-tech-breakfast/los-angeles/46271)  
+
+4/26 Thurs | Persian Women in Tech | Miracle Miracle  
+[Eventbrite](https://www.eventbrite.com/e/persian-women-in-tech-la-april-2018-tickets-44561778479?aff=es2)  
+
+
+## May
+5/5-5/6 Sat-Sun | The United State of Women | Shrine Auditorium  
+[Website](https://www.theunitedstateofwomen.org/)  
+[Eventbrite](https://www.eventbrite.com/e/the-2018-united-state-of-women-summit-tickets-43620792966?aff=website)  
+
+5/9 Wed | Athena.LA Dinner hosted by Chewse f/Lumi and the Flex Company | GA | Santa Monica  
+[Event Link](https://generalassemb.ly/education/athenala-dinner-hosted-by-chewse-featuring-lumi-the-flex-company/los-angeles/50086)  
+
+5/17 Thurs AM | Women in Tech Breakfast | GA | Santa Monica  
+[Event Link](https://generalassemb.ly/education/women-in-tech-breakfast/los-angeles/49570)  
