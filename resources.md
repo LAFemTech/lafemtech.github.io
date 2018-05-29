@@ -24,6 +24,7 @@ _Annual Conference in Oregon_  ``
 [The Muse](https://www.themuse.com/)  
 [Power To Fly](https://powertofly.com/)  
 [Women of Grit | Empowerment](https://womenofgrit.com/)  
+[Women Hack | Career Resources](https://www.womenhack.com/)  
 [Women in Tech Campaign](http://www.womenintechcampaign.com/)
 
 
@@ -36,6 +37,7 @@ _Annual Conference in Oregon_  ``
 [It was never a dress](http://itwasneveradress.com/) | [TedX Talk](http://tedxtalks.ted.com/video/It-Was-Never-a-Dress-The-Power)  
 [LadyGeek](http://www.ladygeek.com)  
 _Lady Geek is a campaigning agency that makes technology more accessible to women and girls._  
+[LadyNerds](http://www.ladynerds.org/)  
 [Medium Women of Silicon Valley](https://medium.com/@WomenOfSiliconValley)  
 [Sit With Me](http://sitwithme.org)  
 _Project of NCWIT_  

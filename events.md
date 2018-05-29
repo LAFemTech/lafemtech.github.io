@@ -13,6 +13,52 @@ Some great local calendars:
 
 <hr>
 
+# Upcoming Events
+
+## June  
+6/9 Sat | Women Sparking Impact Brunch Series | Santa Monica | $5
+[Event Link](https://generalassemb.ly/education/women-sparking-impact-brunch-speaker-series/los-angeles/50695)  
+
+6/9 Sat | Women at the Forefront of Emerging Technologies in Interaction Design | Pasadena  
+[Meetup](https://www.meetup.com/Pasadena-Women-In-Technology/events/251118396/)  
+
+6/14 Thurs | Mixer for Women in Tech by ActivePort | Long Beach | Free  
+[Eventbrite](https://www.eventbrite.com/e/mixer-for-women-in-tech-by-active-port-tickets-45758959279?aff=ebdssbdestsearch)  
+
+6/19 Tues | Athena.LA Dinner at Magento | Culver City | $20
+[Eventbrite](https://www.eventbrite.com/e/athenala-dinner-hosted-by-magento-getting-to-the-c-suite-tickets-46130636977?aff=ebdssbdestsearch)    
+
+6/20 Wed | Women in Tech Breakfast at GA | Santa Monica  
+[Event Link](https://generalassemb.ly/education/women-in-tech-breakfast/los-angeles/51277)  
+
+6/21 Thurs | Women in Big Data Python Tutorial: Visualizing Geographic Data | USC  
+[Meetup](https://www.meetup.com/Pyladies-LA/events/250894013/)   
+
+6/23 Sat | Girls in Tech LA Web Development Workshop | DTLA |  $20
+[Eventbrite](https://www.eventbrite.com/e/sabios-intro-to-web-development-workshop-with-girls-in-tech-tickets-46090835931?aff=ebdssbdestsearch)  
+
+6/21 Sat | R-Ladies June Meetup | UCLA  
+[Meetup](https://www.meetup.com/rladies-la/events/250458463/)  
+
+
+## May
+5/5-5/6 Sat-Sun | The United State of Women | Shrine Auditorium  
+[Website](https://www.theunitedstateofwomen.org/)  | [Eventbrite](https://www.eventbrite.com/e/the-2018-united-state-of-women-summit-tickets-43620792966?aff=website)  
+
+5/9 Wed | Athena.LA Dinner hosted by Chewse f/Lumi and the Flex Company | GA | Santa Monica  
+[Event Link](https://generalassemb.ly/education/athenala-dinner-hosted-by-chewse-featuring-lumi-the-flex-company/los-angeles/50086)  
+
+5/17 Thurs AM | Women in Tech Breakfast | GA | Santa Monica  
+[Event Link](https://generalassemb.ly/education/women-in-tech-breakfast/los-angeles/49570)  
+
+5/30 Wed | GA + ELLIE & SASS PRESENT: Women in Tech and Entrepreneurship | Santa Monica  
+[Event Link](https://generalassemb.ly/education/ga-ellie-sass-present-women-in-tech-entrepreneurship/los-angeles/50379)  
+
+5/31 Thurs AM | Meet the Riveter | West LA  
+[Eventbrite](https://www.eventbrite.com/e/meet-the-riveter-friends-and-family-coffee-conversation-tickets-46236078355?aff=ebdssbdestsearch)  
+
+
+# Past Events
 ## January  
 1/17 Wed | Happy Hour | Women's Voices in Tech | Culver City | Free  
 [Eventbrite Link](https://www.eventbrite.com/e/womens-voices-in-tech-happy-hour-with-special-guest-cassie-betts-tickets-41340952903)
@@ -91,15 +137,3 @@ Some great local calendars:
 
 4/26 Thurs | Persian Women in Tech | Miracle Miracle  
 [Eventbrite](https://www.eventbrite.com/e/persian-women-in-tech-la-april-2018-tickets-44561778479?aff=es2)  
-
-
-## May
-5/5-5/6 Sat-Sun | The United State of Women | Shrine Auditorium  
-[Website](https://www.theunitedstateofwomen.org/)  
-[Eventbrite](https://www.eventbrite.com/e/the-2018-united-state-of-women-summit-tickets-43620792966?aff=website)  
-
-5/9 Wed | Athena.LA Dinner hosted by Chewse f/Lumi and the Flex Company | GA | Santa Monica  
-[Event Link](https://generalassemb.ly/education/athenala-dinner-hosted-by-chewse-featuring-lumi-the-flex-company/los-angeles/50086)  
-
-5/17 Thurs AM | Women in Tech Breakfast | GA | Santa Monica  
-[Event Link](https://generalassemb.ly/education/women-in-tech-breakfast/los-angeles/49570)  
