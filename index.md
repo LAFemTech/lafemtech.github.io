@@ -19,15 +19,18 @@ This page is particularly focused on groups with an LA presence. More informatio
 
 
 # Tech Community Groups
+[Amazon Women in Engineering - LinkedIn](https://www.linkedin.com/groups/8362940/profile)  
 [AnitaB.org Local](https://community.anitab.org/groups/los-angeles/gpages/) _Local chapters for Anita B.org (formerly Anita Borg Institute)_  
 [Athena.LA](https://www.athena.la/) _Tech Dinner Gatherings_  
 [Black Women in Tech LA Meetup](http://www.meetup.com/Black-Women-in-Technology-LA/)    
 [DIY Girls - Meetup](https://www.meetup.com/DIYgirls/)
 [LinuxChix Los Angeles - Meetup](https://www.meetup.com/LinuxChixLA/)  
-[Long Beach Women in Tech Meetup](https://www.meetup.com/Long-Beach-Women-in-Tech/)  
+[Long Beach Women in Tech Meetup](https://www.meetup.com/Long-Beach-Women-in-Tech/) | [Website](https://longbeachwomenintech.org)
 [Pasadena Women in Technology - Meetup](https://www.meetup.com/Pasadena-Women-In-Technology/)  
 [Silicon Beach Diversity - Meetup](https://www.meetup.com/Silicon-Beach-Diversity/)  
+[Women in CyberSecurity - WiCyS SoCal](http://wicyssocal.org) | [LinkedIn]()
 [Women in Software Engineering - Meetup](https://www.meetup.com/Women-in-Software-Engineering/)  
+[Women Who Test](http://womenwhotest.com)  
 [Women's Voices in Tech - Meetup](https://www.meetup.com/meetup-group-fMctMcUE/) _A project of Code District and Repurpose Your Purpose_  
 
 
@@ -52,6 +55,7 @@ This page is particularly focused on groups with an LA presence. More informatio
 
 # Startup and Entrepreneurship
 [Ellevate Network (formerly 85 Broads)](https://www.ellevatenetwork.com/chapters/58-us-los-angeles)  
+[GirlBoss Rally](https://www.girlbossrally.com)  
 [SHEWORX](http://www.sheworx.com)  _Female Entrepreneurs_  
 [Tech Women Network](http://techwomennetwork.com) _Digital Cafe for Tech-Savvy Women_  
 [Women 2.0](https://women2.com/)  
