@@ -25,10 +25,10 @@ This page is particularly focused on groups with an LA presence. More informatio
 [Black Women in Tech LA Meetup](http://www.meetup.com/Black-Women-in-Technology-LA/)    
 [DIY Girls - Meetup](https://www.meetup.com/DIYgirls/)
 [LinuxChix Los Angeles - Meetup](https://www.meetup.com/LinuxChixLA/)  
-[Long Beach Women in Tech Meetup](https://www.meetup.com/Long-Beach-Women-in-Tech/) | [Website](https://longbeachwomenintech.org)
+[Long Beach Women in Tech Meetup](https://www.meetup.com/Long-Beach-Women-in-Tech/) | [Website](https://longbeachwomenintech.org)  
 [Pasadena Women in Technology - Meetup](https://www.meetup.com/Pasadena-Women-In-Technology/)  
 [Silicon Beach Diversity - Meetup](https://www.meetup.com/Silicon-Beach-Diversity/)  
-[Women in CyberSecurity - WiCyS SoCal](http://wicyssocal.org) | [LinkedIn]()
+[Women in CyberSecurity - WiCyS SoCal](http://wicyssocal.org)  
 [Women in Software Engineering - Meetup](https://www.meetup.com/Women-in-Software-Engineering/)  
 [Women Who Test](http://womenwhotest.com)  
 [Women's Voices in Tech - Meetup](https://www.meetup.com/meetup-group-fMctMcUE/) _A project of Code District and Repurpose Your Purpose_  
